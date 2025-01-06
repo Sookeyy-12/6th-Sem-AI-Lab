@@ -17,3 +17,33 @@ This repository contains the lab assignments for the Artificial Intelligence Lab
 3. Compare the number of nodes explored by BFS and DFS.
 
 </details>
+
+<details><summary>
+<h3> Lab 2: Route Finder Using Bi-Directional BFS/DFS
+</summary>
+
+**Objective**: Use Bi-directional BFS/DFS to solve a navigation problem
+
+**Problem Statement**: Represent a City Map as a graph where intersections are nodes and roads are edges. Find the shortest path between two locations.
+
+**Tasks**:
+- Implement Bi-directional BFS to minimize the number of nodes explored.
+- Compare the performance of Bi-directional BFS with standard BFS and DFS.
+- Visualize the search process (e.g., using a library like networkx in Python).
+
+</details>
+
+<details><summary>
+<h3> Lab 3: Search for treasure using Best Find Search
+</summary>
+
+**Objective**: Use Best Find Search to find a treasure in a grid
+
+**Problem Statement**: The Treasure is hidden in a grid, and each cell has a heuristic value representing its "closeness" to the treasure. Implement Best-Find Search to locate the treasure.
+
+**Tasks**:
+1. Use Manhattan distance as heuristic.
+2. Implement the algorithm to always move to the most promising cell first (minimum heuristic value).
+3. Analyze how heuristic choice affects performance.
+
+</details>
