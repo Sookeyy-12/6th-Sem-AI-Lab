@@ -1,0 +1,11 @@
+[project]
+name = "14-01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq>=0.15.0",
+    "networkx>=3.4.2",
+    "phidata>=2.7.7",
+]
