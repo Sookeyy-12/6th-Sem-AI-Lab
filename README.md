@@ -47,3 +47,25 @@ This repository contains the lab assignments for the Artificial Intelligence Lab
 3. Analyze how heuristic choice affects performance.
 
 </details>
+
+<details><summary>
+<h3> 07-01: Use PhiData to create 3 AI Agents
+</summary>
+
+**Tasks**:
+1. Create a Web Search Agent.
+2. Create a Finance Agent.
+3. Create a Image Interpretation Agent.
+
+</details>
+
+<details><summary>
+<h3> 14-01: Implement UCS and A* and make Coding Agent.
+</summary>
+
+**Tasks**:
+1. Implement Uniform Cost Search (UCS) Agorithm.
+2. Implement A* Search Algorithm.
+3. Create a Coding Agent using PhiData.
+
+</details>
