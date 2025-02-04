@@ -15,4 +15,5 @@ dependencies = [
     "psycopg[binary]>=3.2.4",
     "pypdf>=5.2.0",
     "sqlalchemy>=2.0.37",
+    "youtube-transcript-api>=0.6.3",
 ]
